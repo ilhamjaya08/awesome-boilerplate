@@ -5,8 +5,9 @@
 
 ## Contents
 - [Contents](#contents)
-  - [Angular](#angular)
-  - [Bootstrap](#bootstrap)
+  - [AdonisJS](#adonisjs)
+  - [Angular](#angular) 
+  - [Bootstrap](#bootstrap) 
   - [Django](#django)
   - [Express](#express)
   - [FastAPI](#fastapi)
@@ -15,7 +16,14 @@
 
 
 
-
+## AdonisJS
+| No | Name | Description | Link |
+| -- | -- | -- | -- |
+| 1 | iamraphson/adonisjs-hackathon-starter | A boilerplate for AdonisJS web framework | [Github](https://github.com/iamraphson/adonisjs-hackathon-starter) |
+| 2 | yann-yinn/adonis-starter | A Node.js / TypeScript / Postgres starter with ready-to-use users management (register, login, forgot password etc) to focus on building your new ideas. Built upon the excellent AdonisJS MVC Framework. | [Github](https://github.com/yann-yinn/adonis-starter) |
+ | 3 | amitkhare/adonis-jwt-api-starter | Boilerplate for creating a JWT API server in AdonisJs with vuejs as backend. | [Github](https://github.com/amitkhare/adonis-jwt-api-starter) |
+ | 4 | kavinvalli/rita | Batteries included starter for Adonis apps - React, Inertia, Typescript, Adonis | [Github](https://github.com/kavinvalli/rita) |
+ 
 
 ## Angular
 | No | Name | Description |  Link |
