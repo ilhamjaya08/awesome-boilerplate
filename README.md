@@ -7,7 +7,11 @@
 - [Contents](#contents)
   - [Angular](#angular)
   - [Bootstrap](#bootstrap)
+  - [Django](#django)
   - [Express](#express)
+  - [FastAPI](#fastapi)
+  - [Fastify](#fastify)
+
 
 
 
@@ -30,6 +34,15 @@
 | 1 | bootstrap-npm-starter | Starter template for new building with Bootstrap 4 in npm projects. | [Github](https://github.com/twbs/bootstrap-npm-starter ) |
 | 2 | gatsby-starter-bootstrap | Gatsby starter project for bootstrap | [Github](https://github.com/jaxx2104/gatsby-starter-bootstrap) |
 
+## Django
+| No | Name | Description | Link |
+| -- | -- | -- | -- |
+| 1 | djangox | Django starter project with 🔋 battery | [GitHub](https://github.com/wsvincent/djangox) |
+| 2 | django-hackathon-starter | A boilerplate for Django web application | [GitHub](https://github.com/DrkSephy/django-hackathon-starter) |
+| 3 | django-react-boilerplate | Django 5, React, Bootstrap 5 with Python 3 and webpack project boilerplate | [GitHub](https://github.com/vintasoftware/django-react-boilerplate) |
+| 4 | django-angularjs-rest | Django + Angularjs + django-rest-framework + Bootstrap(angular-ui) project starter | [Github](https://github.com/cheekybastard/django-angularjs-rest) | 
+| 5 | django-nextjs-boilerplate | A starter template for building a fullstack web app with Django, django-rest-framework, Next.js(Typescripted) using docker with PostgreSQL as the primary DB. | [Github](https://github.com/akshat2602/django-nextjs-boilerplate) |
+
 ## Express
 | No | Name | Description | Link |
 | -- | -- | -- | -- |
@@ -37,3 +50,23 @@
 | 2 | starter-express-api | the simplest possible nodejs api using express that responds to any request | [Github](https://github.com/cyclic-software/starter-express-api) |
 | 3 | express-rest-boilerplate | ⌛️ Express starter for building RESTful APIs | [Github](https://github.com/danielfsousa/express-rest-boilerplate) |
 | 4 | react-express-starter | Starter pack for React and Express full stack development | [GitHub](https://github.com/bradtraversy/react-express-starter) |
+| 5 | nuxt-community/express-template | Starter template for Nuxt 2 with Express. | [Github](https://github.com/nuxt-community/express-template) | 
+
+## FastAPI
+| No | Name | Description | Link | 
+| -- | -- | -- | -- | 
+| 1 | cyclic-starter-fastapi | Cyclic FastAPI Starter | [Github](https://github.com/cyclic-software/starter-fastapi) |
+| 2 | gaganpreet/fastapi-starter | A FastAPI based low code starter/boilerplate: SQLAlchemy 2.0 (async), Postgres, React-Admin, pytest and cypress | [Github](https://github.com/gaganpreet/fastapi-starter) | 
+| 3 | BCG-X-Official/agentkit | Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain | [Github](https://github.com/BCG-X-Official/agentkit) |
+| 4 | shinokada/fastapi-web-starter | A static simple website ready to deploy using FastAPI and Bootstrap 5 | [Github](https://github.com/shinokada/fastapi-web-starter) |
+
+
+## Fastify
+| No | Name | Description | Link |
+| -- | -- | -- | -- |
+| 1 | fastify-typescript-starter | 🚀 Fastify & TypeScript starter repository. | [Github](https://github.com/matschik/fastify-typescript-starter) |
+| 2 | fastify-typescript-starter | Node.js starter using Fastify & Typescript | [Github](https://github.com/yonathan06/fastify-typescript-starter) |
+| 3 | Shyam-Chen/Fastify-Starter | 🐆 A boilerplate for API Server with Node.js, Fastify, and MongoDB on Vite. | [Github](https://github.com/Shyam-Chen/Fastify-Starter) |
+| 4 | node-fastify-mongo-api | Node.js Restful API starter template | [GitHub](https://github.com/gmarokov/node-fastify-mongo-api) |
+| 5 | jellydn/fastify-starter | Fastify starter template support RestAPI with Swagger and Graphql | [Github](https://github.com/jellydn/fastify-starter) | 
+| 6 | fullstack-starter-template | Template for full stack applications based on TypeScript, React, Vite, ChakraUI, tRPC, Fastify, Prisma, zod, etc. | [Github](https://github.com/Sairyss/fullstack-starter-template) |
