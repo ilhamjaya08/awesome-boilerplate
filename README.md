@@ -1,4 +1,4 @@
-## Awesome Starterkit [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+## Awesome Boilerplate [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 > A simple list of awesome boilerplate and starterkit according stack you want for your project
